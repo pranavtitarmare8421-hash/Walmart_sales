@@ -10,7 +10,7 @@ Goal: Create a structured workspace within VS Code and organize project folders 
 
 2. Downloaded dataset from Kaggle
 
-3. Install Required Libraries and Load Data Libraries: Install necessary Python libraries using:- 
+3. Install Required Libraries and Load Data Libraries:- Install necessary Python libraries using
 pip install pandas numpy 
 Loading Data: Read the data into a Pandas DataFrame for initial analysis and transformations.
 
