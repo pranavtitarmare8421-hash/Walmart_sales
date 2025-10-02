@@ -45,5 +45,5 @@ Customer Behavior: Trends in ratings, payment preferences, and peak shopping hou
 
 Dashboard :-
 
-   ![Walmart_Dashboard_page-0001 (1)]()
+   ![Walmart_Dashboard_page-0001 (1)](https://github.com/pranavtitarmare8421-hash/Walmart_sales/blob/main/Walmart_Dashboard.pbix)
 
