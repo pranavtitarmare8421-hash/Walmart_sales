@@ -36,7 +36,8 @@ Create New Columns: Calculate the Total Amount for each transaction by multiplyi
 
 7. Designed Power BI dashboard to visualize and analyze key project metrics, providing actionable insights.
 
-Results and Insights 
+Results and Insights
+
 Sales Insights: Key categories, branches with highest sales, and preferred payment methods.
 Profitability: Insights into the most profitable product categories and locations.
 Customer Behavior: Trends in ratings, payment preferences, and peak shopping hours.
