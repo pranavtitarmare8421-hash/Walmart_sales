@@ -15,18 +15,16 @@ pip install pandas numpy
 Loading Data: Read the data into a Pandas DataFrame for initial analysis and transformations.
 
 4. Explore the Data:- 
-
-Goal: Conduct an initial data exploration to understand data distribution, check column names, types, and identify potential issues.
-Analysis: Use functions like .info(), .describe(), and .head() to get a quick overview of the data structure and statistics.
+      Goal: Conduct an initial data exploration to understand data distribution, check column names, types, and identify potential issues.
+      Analysis: Use functions like .info(), .describe(), and .head() to get a quick overview of the data structure and statistics.
 
 5. Data Cleaning:- 
-
- (a)Removing Duplicates: Identify and remove duplicate entries to avoid skewed results.
- (b)Handle Missing Values: Drop rows or columns with missing values if they are insignificant; fill values where essential.
- (c)Fix Data Types: Ensure all columns have consistent data types (e.g., dates as datetime, prices as float).
- (d)Currency Formatting: Use .replace() to handle and format currency values for analysis.
- (e)Validation: Check for any remaining inconsistencies and verify the cleaned data.
- (f)Create New Columns: Calculate the Total Amount for each transaction by multiplying unit_price by quantity and adding this as a new column.
+       (a)Removing Duplicates: Identify and remove duplicate entries to avoid skewed results.
+       (b)Handle Missing Values: Drop rows or columns with missing values if they are insignificant; fill values where essential.
+       (c)Fix Data Types: Ensure all columns have consistent data types (e.g., dates as datetime, prices as float).
+       (d)Currency Formatting: Use .replace() to handle and format currency values for analysis.
+       (e)Validation: Check for any remaining inconsistencies and verify the cleaned data.
+       (f)Create New Columns: Calculate the Total Amount for each transaction by multiplying unit_price by quantity and adding this as a new column.
 
 6. Load Data into MySQL and Business Problem Solving:-
    
@@ -36,7 +34,7 @@ Analysis: Use functions like .info(), .describe(), and .head() to get a quick ov
     | Analyzing peak sales periods and customer buying patterns.
     | Profit margin analysis by branch and category.
 
-8. Designed Power BI dashboard to visualize and analyze key project metrics, providing actionable insights.
+7. Designed Power BI dashboard to visualize and analyze key project metrics, providing actionable insights.
 
 Results and Insights:-
 
